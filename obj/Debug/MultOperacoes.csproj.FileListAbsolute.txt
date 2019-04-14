@@ -1,0 +1,11 @@
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\bin\Debug\MultOperacoes.exe.config
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\bin\Debug\MultOperacoes.exe
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\bin\Debug\MultOperacoes.pdb
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.csprojAssemblyReference.cache
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.Properties.Resources.resources
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.csproj.GenerateResource.cache
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.exe
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.pdb
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.frmTelaPrincipal.resources
+C:\Users\Edjanilson\Desktop\C# projects\MultOperacoes\MultOperacoes\obj\Debug\MultOperacoes.frmTelaSplash.resources
