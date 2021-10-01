@@ -1,15 +1,14 @@
-MultOperacoes
+MultiOperations
 
-Pequeno projeto que solicita ao usuário dois números e em seguida é mostrado o resultado das quatro operações.
-O objetivo desta aplicação é agilizar as quatro operações matemáticas, pois ao insirir os dois números o resultado das quatro operações é exibido.
+Small project that asks the user for two numbers and then the result of the four operations is shown. The purpose of this application is to streamline the four mathematical operations, because when entering the two numbers the result of the four operations is displayed.
 
-Detalhes da implementação
+Implementation Details
 
-Tecnologias utilizadas na implementação:
+Technologies used in implementation:
 
-Sistema feito na linguagem de programação C# usando o template do Windows forms (mesma tecnologia usada nos sistemas operacionais da Microsoft).
+System made in C# programming language using Windows forms template (same technology used in Microsoft operating systems).
 
-Pré-requisitos
+Prerequisites
 
-Instalação do .Net framework (a máquina virtual da plataforma .net)
+Installation of the .Net framework (the virtual machine of the .net platform)
 
